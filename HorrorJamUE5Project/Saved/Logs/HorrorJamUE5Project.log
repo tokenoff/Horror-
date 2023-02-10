@@ -1162,3 +1162,485 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.10-20.49.20:861][597]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
 [2023.02.10-20.49.20:863][597]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2023.02.10-20.49.20:863][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.55.01:246][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.02.10-20.55.04:632][332]LogSlate: Window 'Save Content' being destroyed
+[2023.02.10-20.55.04:641][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-20.55.05:003][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.10-20.55.05:025][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.10-20.55.05:046][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.10-20.55.05:055][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2023.02.10-20.55.05:055][332]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/W1SXRCM1KAKBJOIZDLHZ475DB1081B4EDF1F84012B599F04C7FB97.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2023.02.10-20.55.05:057][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N
+[2023.02.10-20.55.05:057][332]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/55P1SMQLAF7OK6300D5I8N2B88A40F41DAAA01A80BC8AC2C272D8D.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset'
+[2023.02.10-20.55.05:064][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 422 ms (total: 529 ms)
+[2023.02.10-20.55.05:064][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.02.10-20.55.05:064][332]Cmd: MAP LOAD FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.10-20.55.05:064][332]LightingResults: New page: Lighting Build
+[2023.02.10-20.55.05:064][332]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.02.10-20.55.05:068][332]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.55.05:068][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.55.05:070][332]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.10-20.55.05:070][332]MapCheck: New page: Map Check
+[2023.02.10-20.55.05:070][332]LightingResults: New page: Lighting Build
+[2023.02.10-20.55.05:089][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.10-20.55.05:091][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.10-20.55.05:099][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.02.10-20.55.05:099][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.55.05:099][332]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.10-20.55.05:100][332]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.10-20.55.05:100][332]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.10-20.55.05:100][332]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.10-20.55.05:118][332]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.10-20.55.05:118][332]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 437 ms)
+[2023.02.10-20.55.05:175][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.10-20.55.05:198][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.10-20.55.05:205][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.10-20.55.05:205][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2023.02.10-20.55.05:205][332]LogFileHelpers: Loading map 'FirstPersonMap' took 0.141
+[2023.02.10-20.55.05:215][332]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.10-20.55.05:215][332]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0
+[2023.02.10-20.55.05:215][332]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TextRenderActor_1
+[2023.02.10-20.55.27:756][949]LogContentBrowser: Attempting asset rename: FirstPersonMap_BuiltData -> FirstPersonMap_BuiltData
+[2023.02.10-20.56.27:971][709]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/FirstPerson/Maps/FirstPersonMap_BuiltData.FirstPersonMap_BuiltData
+[2023.02.10-20.56.31:638][ 99]LogSlate: Window 'FirstPersonMap_BuiltData' being destroyed
+[2023.02.10-20.56.31:644][ 99]LogSlate: Window 'FirstPersonMap_BuiltData' being destroyed
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: ================================================
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Total job queries 157, among them cache hits 24 (15.29%)
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Tracking 127 distinct input hashes that result in 104 distinct outputs (81.89%)
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: RAM used: 1.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Shaders Compiled: 127
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Jobs assigned 133, completed 127 (95.49%)
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Average time worker was idle: 53.36 s
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Time job spent in pending queue: average 2.88 s, longest 10.01 s
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Job execution time: average 2.44 s, max 8.07 s
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Job life time (pending + execution): average 5.44 s, max 12.25
+[2023.02.10-20.57.12:913][904]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.03 s
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Jobs were issued in 95 batches (only local compilation was used), average 1.40 jobs/batch
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Average processing rate: 7.05 jobs/sec
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Total thread time: 91.98 s
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Total thread preprocess time: 4.74 s
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Percentage time preprocessing: 5.16%
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Effective parallelization: 5.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.17 sec, max 1.54 sec, min 0.72 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 21.61% of total time (compiled   17 times, average 1.17 sec, max 1.54 sec, min 0.72 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.55% of total time (compiled   17 times, average 0.79 sec, max 1.23 sec, min 0.54 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.67% of total time (compiled   17 times, average 0.69 sec, max 0.81 sec, min 0.51 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.03% of total time (compiled   11 times, average 0.59 sec, max 0.70 sec, min 0.45 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.37% of total time (compiled   11 times, average 0.45 sec, max 0.68 sec, min 0.32 sec)
+[2023.02.10-20.57.12:914][904]LogShaderCompilers: Display: ================================================
+[2023.02.10-20.57.27:505][599]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.10-20.57.27:516][599]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.10-20.57.27:521][600]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.10-20.57.28:620][730]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.10-20.57.28:620][730]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.10-20.57.46:216][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.10-20.57.46:244][797]LogTexture: Display: Building textures: /Game/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.T_ML_FineRubber (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.02.10-20.57.51:795][797]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.10-20.57.51:841][797]LogUObjectGlobals: Force Deleting 20 Package(s):
+	Asset Name: /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+	Asset Type: Material
+	Asset Name: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+	Asset Type: StaticMesh
+	Asset Name: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+	Asset Type: SoundWave
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+	Asset Type: Texture2D
+[2023.02.10-20.57.52:174][797]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh...
+[2023.02.10-20.57.52:188][797]LogStaticMesh: Built static mesh [0.01s] /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2023.02.10-20.57.52:221][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:221][797]LogMaterial: Warning: M_FPGun: Requesting an invalid TextureIndex! (2 / 0)
+[2023.02.10-20.57.52:223][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:225][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:228][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:230][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:232][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:234][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.52:236][797]LogMaterial: Warning: [AssetLog] D:\HorrorGameJam\HorrorJamRepo\HorrorJamUE5Project\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.02.10-20.57.53:008][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.10-20.57.53:035][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.10-20.57.53:054][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.10-20.58.08:345][469]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.10-20.58.08:351][469]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.10-20.58.08:356][470]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.10-20.58.25:163][481]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.02.10-20.58.25:164][481]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.10-20.58.31:080][161]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.10-20.58.31:088][161]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.10-20.58.31:112][163]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.10-20.58.35:412][677]LogContentBrowser: Attempting asset rename: NewFolder -> Bedr
+[2023.02.10-20.58.35:412][677]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.10-20.58.42:625][512]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.10-20.58.42:630][512]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.10-20.58.42:635][513]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.10-20.59.01:474][768]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.10-20.59.01:474][768]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.10-20.59.38:696][123]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.10-20.59.38:700][123]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.10-20.59.38:728][125]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.02.10-20.59.42:408][567]LogContentBrowser: Attempting asset rename: NewWorld -> Bedroom_Level
+[2023.02.10-20.59.42:414][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.59.42:417][567]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.10-20.59.44:524][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.10-20.59.46:367][806]LogSlate: Window 'Save Content' being destroyed
+[2023.02.10-20.59.46:373][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-20.59.46:400][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bedroom_Level" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.10-20.59.46:447][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.02.10-20.59.46:455][806]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom_Level
+[2023.02.10-20.59.46:455][806]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/Bedroom_LevelA7A6F8274B4FCF60D5CF0992CD2CBA08.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap'
+[2023.02.10-20.59.46:460][806]LogFileHelpers: Saving map 'Bedroom_Level' took 0.065
+[2023.02.10-20.59.46:465][806]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2023.02.10-20.59.46:466][806]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/BP_FirstPersonProjectile811E3CB74A1FF49FD3385D83F4DFA965.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2023.02.10-20.59.46:467][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Pickup_Rifle" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset" SILENT=true
+[2023.02.10-20.59.46:474][806]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2023.02.10-20.59.46:474][806]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/BP_Pickup_Rifle7333D92840BC8F936B6FA5BA7EDE139C.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2023.02.10-20.59.46:486][806]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2023.02.10-20.59.46:487][806]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/BP_Weapon_ComponentB1C8471C4722BE3B61377484EDCA4ECB.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2023.02.10-20.59.46:492][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 648 ms)
+[2023.02.10-20.59.46:492][806]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bedroom_Level.Bedroom_Level
+[2023.02.10-20.59.46:492][806]Cmd: MAP LOAD FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.10-20.59.46:492][806]LightingResults: New page: Lighting Build
+[2023.02.10-20.59.46:492][806]LoadErrors: New page: Loading map: Bedroom_Level.umap
+[2023.02.10-20.59.46:494][806]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.59.46:494][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.59.46:500][806]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.10-20.59.46:501][806]MapCheck: New page: Map Check
+[2023.02.10-20.59.46:501][806]LightingResults: New page: Lighting Build
+[2023.02.10-20.59.46:519][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.10-20.59.46:522][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.10-20.59.46:524][806]LogWorld: UWorld::CleanupWorld for Bedroom_Level, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-20.59.46:524][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-20.59.46:547][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.10-20.59.46:597][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.10-20.59.46:599][806]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bedroom_Level'.
+[2023.02.10-20.59.46:600][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-20.59.46:600][806]LogAIModule: Creating AISystem for world Bedroom_Level
+[2023.02.10-20.59.46:607][806]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.10-20.59.46:627][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.10-20.59.46:633][806]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.10-20.59.46:633][806]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2023.02.10-20.59.46:633][806]LogFileHelpers: Loading map 'Bedroom_Level' took 0.141
+[2023.02.10-20.59.46:642][806]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.10-20.59.46:642][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2023.02.10-20.59.46:642][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.10-20.59.46:642][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2023.02.10-20.59.46:642][806]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bedroom_Level.Bedroom_Level
+[2023.02.10-21.00.00:843][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.10-21.00.00:845][473]Cmd: MAP LOAD FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.10-21.00.00:845][473]LightingResults: New page: Lighting Build
+[2023.02.10-21.00.00:845][473]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.02.10-21.00.00:884][473]LogWorld: UWorld::CleanupWorld for Bedroom_Level, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.00:884][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.00:884][473]MapCheck: New page: Map Check
+[2023.02.10-21.00.00:884][473]LightingResults: New page: Lighting Build
+[2023.02.10-21.00.00:902][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.10-21.00.00:903][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.10-21.00.00:909][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.02.10-21.00.00:910][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.00.00:910][473]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.10-21.00.00:910][473]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.10-21.00.00:910][473]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.10-21.00.00:910][473]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.10-21.00.00:928][473]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.10-21.00.00:928][473]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 454 ms)
+[2023.02.10-21.00.00:936][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.10-21.00.00:957][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.10-21.00.00:963][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.10-21.00.00:963][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2023.02.10-21.00.00:963][473]LogFileHelpers: Loading map 'FirstPersonMap' took 0.118
+[2023.02.10-21.00.00:963][473]LogSlate: Window 'Open Level' being destroyed
+[2023.02.10-21.00.09:146][404]Cmd: EDIT COPY
+[2023.02.10-21.00.19:110][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.10-21.00.19:113][512]Cmd: MAP LOAD FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.10-21.00.19:113][512]LightingResults: New page: Lighting Build
+[2023.02.10-21.00.19:113][512]LoadErrors: New page: Loading map: Bedroom_Level.umap
+[2023.02.10-21.00.19:115][512]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.00.19:115][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.00.19:116][512]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.10-21.00.19:116][512]MapCheck: New page: Map Check
+[2023.02.10-21.00.19:116][512]LightingResults: New page: Lighting Build
+[2023.02.10-21.00.19:134][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.10-21.00.19:136][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.10-21.00.19:138][512]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bedroom_Level'.
+[2023.02.10-21.00.19:138][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.00.19:139][512]LogAIModule: Creating AISystem for world Bedroom_Level
+[2023.02.10-21.00.19:146][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.10-21.00.19:166][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.10-21.00.19:173][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.10-21.00.19:173][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2023.02.10-21.00.19:173][512]LogFileHelpers: Loading map 'Bedroom_Level' took 0.061
+[2023.02.10-21.00.19:173][512]LogSlate: Window 'Open Level' being destroyed
+[2023.02.10-21.00.22:234][871]Cmd: EDIT PASTE
+[2023.02.10-21.00.22:289][871]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.10-21.01.08:363][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.01.08:392][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bedroom_Level" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.10-21.01.08:417][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.10-21.01.08:425][578]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom_Level
+[2023.02.10-21.01.08:425][578]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/Bedroom_LevelAA753CCB43DB0CE86289F4A128F17CF8.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Level.umap'
+[2023.02.10-21.01.08:432][578]LogFileHelpers: Saving map 'Bedroom_Level' took 0.041
+[2023.02.10-21.01.08:441][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 727 ms)
+[2023.02.10-21.01.08:446][578]AssetCheck: New page: Asset Save: Bedroom_Level
+[2023.02.10-21.01.08:446][578]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bedroom_Level.Bedroom_Level
+[2023.02.10-21.01.16:383][466]LogContentBrowser: Attempting asset rename: Bedroom_Level -> Bedroom_Map
+[2023.02.10-21.01.16:418][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.01.16:448][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bedroom_Map" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.10-21.01.16:468][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.10-21.01.16:475][466]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom_Map
+[2023.02.10-21.01.16:475][466]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/Bedroom_Map8A90FED044AE3E36CA3A75A4AC6A4590.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap'
+[2023.02.10-21.01.16:482][466]LogFileHelpers: Saving map 'Bedroom_Map' took 0.034
+[2023.02.10-21.01.16:487][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 796 ms)
+[2023.02.10-21.01.16:515][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.10-21.01.16:536][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.10-21.01.16:555][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.10-21.01.16:562][466]AssetCheck: New page: Asset Save: Bedroom_Map
+[2023.02.10-21.01.16:562][466]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bedroom_Map.Bedroom_Map
+[2023.02.10-21.02.14:491][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.02.14:528][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bedroom_Map" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.10-21.02.14:548][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.10-21.02.14:554][ 61]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom_Map
+[2023.02.10-21.02.14:555][ 61]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/Bedroom_Map3E862D674E15FC712EE56B8C627E58C7.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap'
+[2023.02.10-21.02.14:564][ 61]LogFileHelpers: Saving map 'Bedroom_Map' took 0.037
+[2023.02.10-21.02.14:570][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 875 ms)
+[2023.02.10-21.02.14:578][ 61]AssetCheck: New page: Asset Save: Bedroom_Map
+[2023.02.10-21.02.14:578][ 61]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bedroom_Map.Bedroom_Map
+[2023.02.10-21.02.17:547][355]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.10-21.02.17:550][355]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.10-21.02.17:552][355]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.02.10-21.02.17:553][355]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2023.02.10-21.02.17:622][355]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2023.02.10-21.02.17:656][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.10-21.02.17:658][355]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (3 blueprints)
+[2023.02.10-21.02.17:658][355]PIE: New page: PIE session: Bedroom_Map (Feb. 10, 2023, 11:02:17 a.m.)
+[2023.02.10-21.02.17:661][355]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.10-21.02.17:661][355]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.10-21.02.17:661][355]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bedroom_Map
+[2023.02.10-21.02.17:663][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002001s)
+[2023.02.10-21.02.17:663][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bedroom_Map.Bedroom_Map to /Game/Levels/UEDPIE_0_Bedroom_Map.Bedroom_Map (0.002031s)
+[2023.02.10-21.02.17:664][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.02.17:664][355]LogAIModule: Creating AISystem for world Bedroom_Map
+[2023.02.10-21.02.17:664][355]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.02.10-21.02.17:685][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.10-21.02.17:685][355]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.10-21.02.17:685][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.10-21.02.17:685][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.10-21.02.17:686][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.10-21.02.17:686][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.10-21.02.17:686][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.10-21.02.17:688][355]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.10-21.02.17:710][355]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.10-21.02.17:711][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.10-21.02.17:711][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.10-21.02.17:711][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.10-21.02.17:711][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.10-21.02.17:711][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.10-21.02.17:713][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.10-21.02.17:713][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.10-21.02.17:713][355]LogInit: FAudioDevice initialized.
+[2023.02.10-21.02.17:713][355]LogAudio: Display: Audio Device (ID: 2) registered with world 'Bedroom_Map'.
+[2023.02.10-21.02.17:716][355]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.10-21.02.17:717][355]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bedroom_Map.Bedroom_Map up for play (max tick rate 0) at 2023.02.10-16.02.17
+[2023.02.10-21.02.17:717][355]LogWorld: Bringing up level for play took: 0.000660
+[2023.02.10-21.02.17:719][355]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.02.10-21.02.17:736][355]PIE: Server logged in
+[2023.02.10-21.02.17:737][355]PIE: Play in editor total start time 0.187 seconds.
+[2023.02.10-21.02.20:504][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.10-21.02.20:505][594]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bedroom_Map
+[2023.02.10-21.02.20:505][594]LogWorld: UWorld::CleanupWorld for Bedroom_Map, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.02.20:505][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.02.20:511][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.10-21.02.20:516][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.02.20:537][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.10-21.02.20:538][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.10-21.02.20:540][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.10-21.02.20:597][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.10-21.02.20:653][595]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.10-21.02.50:453][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.10-21.02.50:458][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.10-21.02.50:459][977]PIE: New page: PIE session: Bedroom_Map (Feb. 10, 2023, 11:02:50 a.m.)
+[2023.02.10-21.02.50:459][977]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bedroom_Map
+[2023.02.10-21.02.50:462][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002781s)
+[2023.02.10-21.02.50:462][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bedroom_Map.Bedroom_Map to /Game/Levels/UEDPIE_0_Bedroom_Map.Bedroom_Map (0.002832s)
+[2023.02.10-21.02.50:462][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-21.02.50:462][977]LogAIModule: Creating AISystem for world Bedroom_Map
+[2023.02.10-21.02.50:463][977]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.02.10-21.02.50:518][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.10-21.02.50:525][977]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.10-21.02.50:525][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.10-21.02.50:525][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.10-21.02.50:526][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.10-21.02.50:526][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.10-21.02.50:526][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.10-21.02.50:528][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.10-21.02.50:549][977]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.10-21.02.50:549][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.10-21.02.50:549][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.10-21.02.50:549][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.10-21.02.50:550][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.10-21.02.50:550][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.10-21.02.50:551][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.10-21.02.50:552][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.10-21.02.50:552][977]LogInit: FAudioDevice initialized.
+[2023.02.10-21.02.50:552][977]LogAudio: Display: Audio Device (ID: 3) registered with world 'Bedroom_Map'.
+[2023.02.10-21.02.50:555][977]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.10-21.02.50:556][977]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bedroom_Map.Bedroom_Map up for play (max tick rate 0) at 2023.02.10-16.02.50
+[2023.02.10-21.02.50:556][977]LogWorld: Bringing up level for play took: 0.000923
+[2023.02.10-21.02.50:558][977]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.02.10-21.02.50:560][977]PIE: Server logged in
+[2023.02.10-21.02.50:561][977]PIE: Play in editor total start time 0.103 seconds.
+[2023.02.10-21.02.51:014][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.10-21.02.51:014][997]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bedroom_Map
+[2023.02.10-21.02.51:015][997]LogWorld: UWorld::CleanupWorld for Bedroom_Map, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-21.02.51:015][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.02.51:017][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.10-21.02.51:022][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-21.02.51:041][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.10-21.02.51:042][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.10-21.02.51:043][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.10-21.02.51:049][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.10-21.02.51:087][998]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.10-21.02.53:846][294]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.10-21.03.11:604][190]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.10-21.03.12:471][269]LogShaderCompilers: Display: ================================================
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Total job queries 167, among them cache hits 24 (14.37%)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 113 distinct outputs (81.88%)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Shaders Compiled: 138
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Jobs assigned 143, completed 138 (96.50%)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Average time worker was idle: 70.00 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Time job spent in pending queue: average 2.68 s, longest 10.01 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Job execution time: average 2.32 s, max 8.07 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Job life time (pending + execution): average 5.09 s, max 12.25
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.30 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Jobs were issued in 105 batches (only local compilation was used), average 1.36 jobs/batch
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Average processing rate: 6.80 jobs/sec
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Total thread time: 97.29 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Total thread preprocess time: 5.06 s
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Percentage time preprocessing: 5.20%
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.17 sec, max 1.54 sec, min 0.72 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 20.43% of total time (compiled   17 times, average 1.17 sec, max 1.54 sec, min 0.72 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.14% of total time (compiled   19 times, average 0.78 sec, max 1.23 sec, min 0.54 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.32% of total time (compiled   19 times, average 0.68 sec, max 0.81 sec, min 0.51 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.18% of total time (compiled   12 times, average 0.58 sec, max 0.70 sec, min 0.45 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.86% of total time (compiled   13 times, average 0.44 sec, max 0.68 sec, min 0.32 sec)
+[2023.02.10-21.03.12:472][269]LogShaderCompilers: Display: ================================================
+[2023.02.10-21.04.06:518][460]Cmd: TRANSACTION UNDO
+[2023.02.10-21.04.06:518][460]LogEditorTransaction: Undo Replace component used material
+[2023.02.10-21.04.06:764][466]Cmd: TRANSACTION UNDO
+[2023.02.10-21.04.06:764][466]LogEditorTransaction: Undo Replace component used material
+[2023.02.10-21.04.06:891][469]Cmd: TRANSACTION UNDO
+[2023.02.10-21.04.06:891][469]LogEditorTransaction: Undo Replace component used material
+[2023.02.10-21.04.07:487][502]Cmd: TRANSACTION UNDO
+[2023.02.10-21.04.07:487][502]LogEditorTransaction: Undo Replace component used material
+[2023.02.10-21.04.08:401][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.10-21.04.08:443][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bedroom_Map" FILE="D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.10-21.04.08:471][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.10-21.04.08:489][557]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom_Map
+[2023.02.10-21.04.08:490][557]LogSavePackage: Moving 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Saved/Bedroom_Map76F27AC64328D2EC085F9B9A0BB4F041.tmp' to 'D:/HorrorGameJam/HorrorJamRepo/HorrorJamUE5Project/Content/Levels/Bedroom_Map.umap'
+[2023.02.10-21.04.08:500][557]LogFileHelpers: Saving map 'Bedroom_Map' took 0.057
+[2023.02.10-21.04.08:514][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 988 ms)
+[2023.02.10-21.04.08:523][557]AssetCheck: New page: Asset Save: Bedroom_Map
+[2023.02.10-21.04.08:523][557]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bedroom_Map.Bedroom_Map
